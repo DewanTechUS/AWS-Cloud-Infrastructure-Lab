@@ -1,6 +1,6 @@
 # AWS Cloud Infrastructure Lab
 
-Hands-on AWS infrastructure project focused on building practical cloud deployment, networking, security, access control, storage, and monitoring skills.
+AWS infrastructure lab focused on cloud deployment, networking, security, access control, storage, monitoring, and Linux server administration.
 
 ## Technologies
 
@@ -14,21 +14,16 @@ Hands-on AWS infrastructure project focused on building practical cloud deployme
 - Nginx
 - Git/GitHub
 
-## Project Goals
+## Lab Objectives
 
-This lab is being built to demonstrate practical experience with:
-
-- Launching and configuring an EC2 instance
-- Managing IAM users, roles, and permissions
-- Creating and configuring S3 storage
-- Understanding VPC networking and security groups
-- Monitoring cloud resources with CloudWatch
-- Deploying and supporting a web application in AWS
-- Applying basic cloud security and least-privilege practices
-
-## Status
-
-In Progress — hands-on AWS configuration and deployment work is being added.
+- Launch and configure an EC2 instance
+- Manage IAM users, roles, and permissions
+- Configure Amazon S3 storage
+- Configure VPC networking and security groups
+- Monitor AWS resources with CloudWatch
+- Deploy and support a web application on AWS
+- Apply least-privilege access and basic cloud security practices
+- Document cloud configuration and troubleshooting steps
 
 ## Author
 
